@@ -1,0 +1,629 @@
+name;Nom_dept;Pays;C finale;Value;Lat;Long;description;CODE_DEPT
+493;Côtes-dArmor;France;non;V;48.508533;-2.916611;Plouvara;22
+494;Côtes-dArmor;France;non;V;48.280427;-2.84085;Uzel;22
+482;Côtes-dArmor;France;autre;Other;48.448;-2.486;Noyal;22
+481;Côtes-dArmor;France;non;V;48.655113;-2.331348;Plévenon;22
+483;Côtes-dArmor;France;non;V;48.183334;-2.233333;LoscouÎt-sur-Meu;22
+351;Eure;France;non;V;49.286972;0.598738;Saint-Christophe-sur-Condé;27
+330;Eure;France;non;V;49.07029;0.817741;Barc;27
+321;Eure;France;non;V;48.762257;1.081978;Breux-sur-Avre;27
+249;Eure;France;non;V;49.386944;1.307778;Bourg-Beaudouin;27
+463;Ille-et-Vilaine;France;non;V;47.876583;-2.084128;Comblessac;35
+470;Ille-et-Vilaine;France;non;V;48.604076;-1.893617;La Gouesnière;35
+462;Ille-et-Vilaine;France;non;V;48.12746;-1.817488;L'Hermitage;35
+453;Ille-et-Vilaine;France;non;V;47.824821;-1.806856;Messac;35
+461;Ille-et-Vilaine;France;non;V;48.309021;-1.668098;Montreuil-sur-Ille;35
+460;Ille-et-Vilaine;France;non;V;48.516666;-1.55;Vieuxviel;35
+451;Ille-et-Vilaine;France;non;V;48.116669;-1.383333;Saint-Mélaine;35
+450;Ille-et-Vilaine;France;non;V;48.305603;-1.365509;Saint-Marc-sur-Couesnon;35
+359;Ille-et-Vilaine;France;non;V;48.489;-1.188;Mellé;35
+476;Loire-Atlantique;France;non;V;47.356155;-2.369867;Guérande;44
+466;Loire-Atlantique;France;non;V;47.396751;-2.09179;Besné;44
+467;Loire-Atlantique;France;non;V;47.128164;-1.910011;Chéméré;44
+446;Loire-Atlantique;France;non;V;47.340271;-1.526231;Sucé-sur-Erdre;44
+445;Loire-Atlantique;France;non;V;47.623421;-1.450531;Issé;44
+447;Loire-Atlantique;France;non;V;47.101208;-1.301687;Gorges;44
+435;Maine-et-Loire;France;non;V;47.333332;-1.116667;Bouzillé;49
+433;Maine-et-Loire;France;non;V;47.616669;-0.883333;Chazé-sur-Argos;49
+425;Maine-et-Loire;France;non;V;47.211029;-0.726803;Chemillé;49
+423;Maine-et-Loire;France;non;V;47.5;-0.583333;Avrillé;49
+415;Maine-et-Loire;France;non;V;47.195896;-0.303154;Soulanger;49
+412;Maine-et-Loire;France;non;V;47.50647;-0.081973;Bocé;49
+443;Mayenne;France;non;V;47.810917;-1.117594;Congrier;53
+440;Mayenne;France;non;V;48.097328;-0.887561;Le Genest;53
+349;Mayenne;France;non;V;48.338608;-0.740262;Ch‚tillon-sur-Colmont;53
+421;Mayenne;France;non;V;47.849998;-0.6;Gennes-sur-Glaize;53
+339;Mayenne;France;non;V;48.150002;-0.466667;Neau;53
+338;Mayenne;France;non;V;48.416588;-0.335024;Javron;53
+485;Morbihan;France;non;V;48.03455;-2.765412;Crédin;56
+486;Morbihan;France;non;V;47.837868;-2.639578;Plumelec;56
+475;Morbihan;France;non;V;47.591915;-2.456789;Noyal-Muzillac;56
+484;Morbihan;France;non;V;47.988586;-2.383094;Loyat;56
+465;Morbihan;France;non;V;47.636829;-2.126369;Saint-Jean-la-Poterie;56
+248;Oise;France;non;V;49.383331;1.733333;Talmontiers;60
+257;Oise;France;autre;Other;49.746326;1.770502;Quincampoix-Fleuzy;60
+238;Oise;France;non;V;49.247028;1.88973;Liancourt-Saint-Pierre;60
+247;Oise;France;non;V;49.566666;1.95;Achy;60
+246;Oise;France;non;V;49.404594;2.111489;Allonne;60
+245;Oise;France;non;V;49.528332;2.441115;Plainval;60
+235;Oise;France;non;V;49.34251;2.604675;Saint-Martin-Longueau;60
+253;Oise;France;non;V;49.624916;2.981376;Bussy;60
+242;Oise;France;non;V;49.395054;3.065331;Jaulzy;60
+232;Oise;France;non;V;49.1708;3.1058;Marolles;60
+299;Pas-de-Calais;France;non;V;50.716667;1.683333;Baincthun;62
+289;Pas-de-Calais;France;non;V;50.405415;1.76814;Boisjean;62
+288;Pas-de-Calais;France;non;V;50.483334;2.016667;Torcy;62
+298;Pas-de-Calais;France;non;V;50.802429;2.092546;Nort-Leulinghem;62
+287;Pas-de-Calais;France;non;V;50.450001;2.216667;Teneur;62
+286;Pas-de-Calais;France;autre;Other;50.400002;2.266667;Pierremont;62
+285;Pas-de-Calais;France;autre;Other;50.366669;2.316667;Ramecourt;62
+284;Pas-de-Calais;France;non;V;50.382359;2.33241;Saint-Pol-sur-Ternoise;62
+276;Pas-de-Calais;France;autre;Other;50.349998;2.433333;Ligny-Saint-Flochel;62
+296;Pas-de-Calais;France;non;V;50.623997;2.452802;Isbergues;62
+275;Pas-de-Calais;France;autre;Other;50.296864;2.511217;Manin;62
+283;Pas-de-Calais;France;autre;Other;50.502014;2.665182;Verquigneul;62
+274;Pas-de-Calais;France;non;V;50.295322;2.897186;Rúux;62
+273;Pas-de-Calais;France;autre;Other;50.108135;2.973942;Vélu;62
+371;Seine-Maritime;France;non;V;49.739082;0.310504;Yport;76
+361;Seine-Maritime;France;non;V;49.525002;0.575;La Frénaye;76
+370;Seine-Maritime;France;non;V;49.75;0.716667;Saint-Vaast-Dieppedalle;76
+340;Seine-Maritime;France;non;V;49.349998;0.966667;Moulineaux;76
+259;Seine-Maritime;France;non;V;49.665951;0.999526;Bertrimont;76
+268;Seine-Maritime;France;non;V;49.907993;1.218246;Bellengreville;76
+258;Seine-Maritime;France;non;V;49.64529;1.532201;Beaubec-la-Rosière;76
+262;Aisne;France;non;V;49.877995;3.150614;Vermand;2
+251;Aisne;France;non;V;49.550308;3.46603;Suzy;2
+230;Aisne;France;non;V;49.083332;3.5;Chart�ves;2
+241;Aisne;France;non;V;49.333332;3.516667;Augy;2
+261;Aisne;France;autre;Other;49.816666;3.7;Sains-Richaumont;2
+169;Aisne;France;non;V;49.629757;4.019523;Dizy-le-Gros;2
+179;Aisne;France;non;V;49.866669;4.133333;Martigny;2
+158;Ardennes;France;non;V;49.416668;4.283333;Le Ch�telet-sur-Retourne;8
+178;Ardennes;France;non;V;49.816666;4.566667;Sormonne;8
+167;Ardennes;France;non;V;49.502125;4.589075;Charbogne;8
+188;Ardennes;France;autre;Other;50.010612;4.706894;Haybes;8
+166;Ardennes;France;non;V;49.341148;4.870866;Grandpr�;8
+177;Ardennes;France;non;V;49.616669;4.966667;Haraucourt;8
+199;Bruxelles;Belgique;autre;Other;50.716003;4.608362;Wavre;0
+313;Eure-et-Loir;France;non;V;48.459606;0.992866;Vaupillon;28
+311;Eure-et-Loir;France;non;V;48.12661;1.366248;Saint-Christophe;28
+219;Eure-et-Loir;France;non;V;48.601059;1.702615;Droue-sur-Drouette;28
+196;Li�ge;Belgique;non;V;50.697777;5.255;Waremme;0
+194;Li�ge;Belgique;autre;Other;50.558704;5.639076;Beaufays;0
+191;Li�ge;Belgique;autre;Other;50.433334;5.916667;Malm�dy;0
+193;Li�ge;Belgique;autre;Other;50.614807;5.945706;Dolhain;0
+290;Li�ge;Belgique;non;V;50.388519;6.095309;Thirimont;0
+316;Loir-et-Cher;France;non;V;47.809799;1.081787;Saint-Ouen;41
+306;Loir-et-Cher;France;non;V;47.667206;1.460986;Su�vres;41
+204;Loir-et-Cher;France;non;V;47.536228;2.036702;Nouan-le-Fuzelier;41
+307;Loiret;France;non;V;47.863041;1.744708;Saint-Ay;45
+209;Loiret;France;autre;Other;48.016666;2.333333;Nibelle;45
+206;Loiret;France;non;V;47.678234;2.598285;Poilly-lez-Gien;45
+185;Luxembourg;Belgique;autre;Other;49.795448;5.07225;Bouillon;0
+186;Luxembourg;Belgique;oui;C;50.091736;5.28018;Grupont;0
+176;Luxembourg;Belgique;autre;Other;49.740547;5.342769;Chiny;0
+183;Luxembourg;Belgique;oui;C;49.90417;5.38694;Saint-Pierre;0
+192;Luxembourg;Belgique;oui;C;50.352165;5.456333;Bomal-lez-Durbuy;0
+182;Luxembourg;Belgique;autre;Other;49.671406;5.665855;Vance;0
+184;Luxembourg;Belgique;oui;C;50.000507;5.71528;Bastogne;0
+190;Luxembourg;Belgique;non;V;50.284634;5.915789;Vielsam;0
+128;Marne;France;non;V;48.733334;3.85;Linthes;51
+148;Marne;France;non;V;49.159897;4.146292;Verzenay;51
+146;Marne;France;autre;Other;48.986706;4.516148;Courtisols;51
+147;Marne;France;non;V;49.130817;4.531751;Suippes;51
+135;Marne;France;non;V;48.702568;4.540943;Huiron;51
+155;Marne;France;non;V;48.950001;5;Belval-en-Argonne;51
+189;Namur;Belgique;oui;C;50.0686;4.409122;Aublain;0
+198;Namur;Belgique;oui;C;50.312996;4.545507;Hanzinne;0
+195;Namur;Belgique.;non;V;50.238464;4.906385;Anseremme;0
+187;Namur;Belgique;oui;C;49.954891;4.952462;Gedinne;0
+197;Namur;Belgique;oui;C;50.489635;5.027723;Sclayn;0
+208;Seine-et-Marne;France;non;V;48.163685;2.656998;Chenou;77
+210;Seine-et-Marne;France;non;V;48.515285;3.246602;Longueville;77
+239;Seine-et-Oise;France;non;V;49.074688;1.594877;Gommecourt;78
+227;Seine-et-Oise;France;non;V;48.940571;2.158264;Sartrouville;78
+118;Aube;France;non;V;48.516335;3.641856;Crancey;10
+114;Aube;France;non;V;48.10117;3.919789;Auxon;10
+126;Aube;France;non;V;48.5;4.116667;Saint-�tienne-sous-Barbuise;10
+115;Aube;France;non;V;48.262703;4.149848;Rouilly-Saint-Loup;10
+113;Aube;France;non;V;47.983334;4.366667;Les Riceys;10
+124;Aube;France;non;V;48.459877;4.503685;Rosnay-l'H�pital;10
+122;Aube;France;non;V;48.192528;4.722576;Baroville;10
+202;Cher;France;non;V;47.10928;2.291264;Berry-Bouy;18
+600;Cher;France;non;V;46.546844;2.350164;Culan;18
+400;Cher;France;non;V;46.768262;2.4308;Bru�re-Allichamps;18
+103;Cher;France;non;V;47.310657;2.793472;Bu�;18
+101;Cher;France;non;V;46.968;2.802;Flavigny;18
+617;Corr�ze;France;autre;Other;45.116669;1.416667;Larche;19
+609;Corr�ze;France;non;V;45.366669;1.716667;Seilhac;19
+711;Corr�ze;France;non;V;44.97908;1.83984;Beaulieu-sur-Dordogne;19
+710;Corr�ze;France;non;V;45.195934;1.969204;La Roche-Canillac;19
+707;Corr�ze;France;non;V;45.532524;2.146358;Meymac;19
+706;Corr�ze;France;non;V;45.638889;2.468056;Merlines;19
+708;Corr�ze;France;autre;Other;45.400002;2.5;Bort-les-Orgues;19
+471;C�tes-du-Nord (erreur?);France;non;V;48.383331;-2.066667;Tr�vron;21
+8;C�te-dOr;France;non;V;47.237869;4.233856;Saint-Martin-de-la-Mer;21
+16;C�te-dOr;France;non;V;47.31171;4.535465;Martrois;21
+19;C�te-dOr;France;non;V;47.512794;4.589895;Gissey-sous-Flavigny;21
+12;C�te-dOr;France;non;V;46.958229;4.678974;La Rochepot;21
+110;C�te-dOr;France;non;V;47.833332;4.7;Vanvey;21
+14;C�te-dOr;France;non;V;47.196362;4.962559;Morey-Saint-Denis;21
+17;C�te-dOr;France;non;V;47.619411;5.014229;Avot;21
+13;C�te-dOr;France;non;V;47.095493;5.216169;Esbarres;21
+24;C�te-dOr;France;non;V;47.399426;5.316757;Mirebeau-sur-B�ze;21
+918;Jura;France;non;V;46.4363;5.3453;Saint-Amour;39
+22;Jura;France;non;V;46.946037;5.434433;Gatey;39
+23;Jura;France;non;V;47.165733;5.56505;Amange;39
+20;Jura;France;non;V;46.71994;5.579577;Montain;39
+928;Jura;France;non;V;46.531487;5.634374;Plaisia;39
+927;Jura;France;non;V;46.366669;5.733333;Vaux-l�s-Saint-Claude;39
+21;Jura;France;non;V;46.975685;5.798721;Mouchard;39
+30;Jura;France;non;V;46.735802;5.88667;Ney;39
+938;Jura;France;non;V;46.533333;6.016667;Morbier;39
+64;Jura;Conf�d�ration Helv�tique;non;V;47.184788;6.921732;Les Bois;0
+74;Jura;Conf�d�ration Helv�tique;non;V;47.457527;7.096525;Coeuve;0
+72;Jura;Conf�d�ration Helv�tique;non;V;47.304726;7.113476;Saint-Brais;0
+73;Jura;Conf�d�ration Helv�tique;non;V;47.333588;7.366848;Courrendlin;0
+163;Meurthe-et-Moselle;France;non;V;48.970879;5.887478;Jaulny;54
+181;Meurthe-et-Moselle;France;non;V;49.473492;5.906597;Thil;54
+173;Meurthe-et-Moselle;France;non;V;49.209869;5.935614;Valleroy;54
+150;Meurthe-et-Moselle;France;non;V;48.526463;5.973166;Cr�pey;54
+162;Meurthe-et-Moselle;France;non;V;48.715916;6.020058;Sexey-les-Bois;54
+171;Meurthe-et-Moselle;France;non;V;48.916668;6.25;Mailly-sur-Seille;54
+160;Meurthe-et-Moselle;France;non;V;48.490398;6.396392;Einvaux;54
+170;Meurthe-et-Moselle;France;non;V;48.766666;6.416667;Moncel-sur-Seille;54
+89;Meurthe-et-Moselle;France;non;V;48.418331;6.790556;Lachapelle;54
+180;Meurthe-et-Moselle;France;non;V;48.633052;6.81062;Igney;54
+144;Meuse;France;non;V;48.666668;5.033333;Sommelonne;55
+156;Meuse;France;non;V;49.143517;5.081225;Aubr�ville;55
+165;Meuse;France;non;V;49.400002;5.2;Milly-sur-Bradon;55
+175;Meuse;France;autre;Other;49.527187;5.351161;Thonne-les-Pr�s;55
+143;Meuse;France;non;V;48.616669;5.4;Tr�veray;55
+154;Meuse;France;non;V;48.900002;5.433333;Fresnes-au-Mont;55
+164;Meuse;France;non;V;49.220371;5.50959;Eix;55
+153;Meuse;France;non;V;48.733334;5.633333;Ville-Issey;55
+174;Meuse;France;autre;Other;49.415558;5.659167;Arrancy-sur-Crusne;55
+1;Ni�vre;France;non;V;46.792;3.119;Marcigny;58
+102;Ni�vre;France;non;V;47.083332;3.15;Parigny-les-Vaux;58
+104;Ni�vre;France;non;V;47.349998;3.35;Oudan;58
+3;Ni�vre;France;non;V;47.03558;3.640649;Alluy;58
+105;Ni�vre;France;non;V;47.25;3.65;Chitry-les-Mines;58
+5;Ni�vre;France;non;V;47.064529;3.932359;Ch�teau-Chinon-Campagne;58
+4;Ni�vre;France;non;V;46.789536;3.970938;Luzy;58
+906;Saone-et-Loire;France;non;V;46.352554;4.010777;Vindecy;71
+907;Saone-et-Loire;France;non;V;46.587418;4.11541;Chassy;71
+6;Saone-et-Loire;France;non;V;46.863243;4.241753;Mesvres;71
+7;Saone-et-Loire;France;non;V;47.045353;4.37927;Igornay;71
+909;Saone-et-Loire;France;non;V;46.40097;4.398485;Beaubery;71
+11;Saone-et-Loire;France;non;V;46.745155;4.706612;Rosey;71
+916;Saone-et-Loire;France;non;V;46.303188;4.742449;Davay�;71
+919;Saone-et-Loire;France;non;V;46.533333;4.933333;Pr�ty;71
+10;Saone-et-Loire;France;non;V;46.743389;5.121689;Thurey;71
+107;Yonne;France;non;V;47.610359;3.175297;Moutiers-en-Puisaye;89
+109;Yonne;France;non;V;47.966667;3.3;La Celle-Saint-Cyr;89
+117;Yonne;France;non;V;48.232533;3.536346;Molinons;89
+108;Yonne;France;autre;Other;47.869434;3.765061;Maligny;89
+106;Yonne;France;non;V;47.482533;3.976024;Magny;89
+111;Yonne;France;non;V;47.849998;4.2;Cruzy-le-Ch�tel;89
+866;Alpes-de-Haute-Provence;France;oui;C;44.31406;5.693489;Orpierre;5
+868;Alpes-de-Haute-Provence;France;oui;C;44.540798;5.825865;Veynes;5
+869;Alpes-de-Haute-Provence;France;autre;Other;44.781136;6.02892;Saint-Firmin;5
+879;Alpes-de-Haute-Provence;France;oui;C;44.545769;6.27521;Chorges;5
+971;Alpes-de-Haute-Provence;France;oui;C;44.976299;6.507636;Le Mon�tier-les-Bains;5
+980;Alpes-de-Haute-Provence;France;oui;C;44.660942;6.64942;Guillestre;5
+981;Alpes-de-Haute-Provence;France;oui;C;44.783333;6.866667;Aiguilles;5
+888;Alpes-Maritimes;France;non;V;43.955692;6.893188;Puget-Th�niers;6
+897;Alpes-Maritimes;France;autre;Other;43.576332;7.019595;Le Cannet;6
+991;Alpes-Maritimes;France;oui;C;44.085;7.106;Saint-Sauveur-sur-Tin�e;6
+898;Alpes-Maritimes;France;autre;Other;43.858219;7.197461;Plan-du-Var;6
+899;Alpes-Maritimes;France;autre;Other;43.7756;7.502834;Menton;6
+990;Alpes-Maritimes;France;non;V;44.005;7.554;Fontan;6
+33;Doubs;France;non;V;47.169445;5.891389;Torpes;25
+32;Doubs;France;non;V;47.063896;6.213071;Vuillafans;25
+31;Doubs;France;non;V;46.8675;6.214444;La Rivi�re;25
+43;Doubs;France;non;V;47.249165;6.237915;Bouclans;25
+42;Doubs;France;non;V;47.138355;6.434408;Avoudrey;25
+41;Doubs;France;non;V;47.048492;6.480055;Gilley;25
+54;Doubs;France;non;V;47.393147;6.496893;Clerval;25
+53;Doubs;France;non;V;47.318222;6.812788;Saint-Hippolyte;25
+936;Gen�ve;Conf�d�ration Helv�tique;non;V;46.176174;6.071877;Bernex;0
+26;Haute-Saone;France;non;V;47.616734;5.513586;Champlitte-la-Ville;70
+25;Haute-Saone;France;non;V;47.369026;5.809492;Autoreille;70
+36;Haute-Saone;France;non;V;47.718887;5.844167;Gourgeon;70
+35;Haute-Saone;France;non;V;47.545574;5.862455;Fresne-Saint-Mam�s;70
+47;Haute-Saone;France;non;V;47.927097;6.034655;Demangevelle;70
+45;Haute-Saone;France;non;V;47.602501;6.136944;?chenoz-la-M�line;70
+46;Haute-Saone;France;non;V;47.816944;6.21;Conflans-sur-Lanterne;70
+44;Haute-Saone;France;non;V;47.46722;6.259444;Montbozon;70
+55;Haute-Saone;France;non;V;47.549999;6.462778;Villers-la-Ville;70
+56;Haute-Saone;France;non;V;47.699726;6.63308;Ronchamp;70
+945;Haute-Savoie;France;non;V;45.946274;6.121554;Pringy;74
+944;Haute-Savoie;France;non;V;45.882133;6.324759;Th�nes;74
+946;Haute-Savoie;France;non;V;46.059849;6.367821;Saint-Pierre-en-Faucigny;74
+947;Haute-Savoie;France;non;V;46.264442;6.370556;Bons-en-Chablais;74
+957;Haute-Savoie;France;non;V;46.262081;6.633;Le Biot;74
+958;Haute-Savoie;France;non;V;46.407284;6.718786;Meillerie;74
+956;Haute-Savoie;France;non;V;46.054779;6.775949;Sixt-Fer-?-Cheval;74
+967;Haute-Savoie;France;non;V;45.923611;6.86915;Chamonix-Mont-Blanc;74
+875;Hautes-Alpes;France;non;V;44.049999;5.783333;Saint-?tienne-les-Orgues;4
+885;Hautes-Alpes;France;non;V;43.758331;5.884393;Gr�oux-les-Bains;4
+877;Hautes-Alpes;France;oui;C;44.266666;6.016667;Ch?teaufort;4
+876;Hautes-Alpes;France;autre;Other;43.983334;6.2;M�zel;4
+878;Hautes-Alpes;France;non;V;44.174595;6.350131;La Javie;4
+887;Hautes-Alpes;France;non;V;43.846111;6.513416;Castellane;4
+889;Hautes-Alpes;France;oui;C;44.386299;6.650463;Barcelonnette;4
+829;Is�re;France;non;V;45.414375;4.790735;Clonas-sur-Var�ze;38
+921;Is�re;France;non;V;45.483334;5.133333;Saint-Jean-de-Bournay;38
+922;Is�re;France;non;V;45.67786;5.469172;Morestel;38
+931;Is�re;France;non;V;45.42868;5.515751;Charavines;38
+849;Is�re;France;non;V;44.916801;5.6353;Le Monestier de Clermont;38
+940;Is�re;France;non;V;45.206615;5.663239;Sassenage;38
+942;Is�re;France;non;V;45.301495;5.995621;Theys;38
+950;Is�re;France;non;V;45.056423;6.025843;Le Bourg-d'Oisans;38
+52;Neuch�tel;Conf�d�ration Helv�tique;non;V;46.998489;6.731602;Les Ponts-de-Martel;0
+63;Neuch�tel;Conf�d�ration Helv�tique;non;V;47.059017;7.047371;Le Landeron;0
+968;Valais;Conf�d�ration Helv�tique;non;V;46.147694;7.042899;Saint-Maurice;0
+976;Valais;Conf�d�ration Helv�tique;non;V;45.952072;7.207921;Bourg-Saint-Pierre;0
+977;Valais;Conf�d�ration Helv�tique;non;V;46.079944;7.212833;Le Ch?ble;0
+978;Valais;Conf�d�ration Helv�tique;autre;Other;46.183334;7.283;Nendaz;0
+979;Valais;Conf�d�ration Helv�tique;non;V;46.266766;7.433281;Lens;0
+988;Valais;Conf�d�ration Helv�tique;non;V;46.112766;7.495914;Evol�ne;0
+989;Valais;Conf�d�ration Helv�tique;non;V;46.21;7.58;Vissoye;0
+884;Var;France;non;V;43.452473;5.863279;Saint-Maximin;83
+893;Var;France;autre;Other;43.119995;6.130201;Hy�res;83
+886;Var;France;non;V;43.616669;6.233333;Aups;83
+894;Var;France;non;V;43.394459;6.313171;Le Luc;83
+895;Var;France;non;V;43.273216;6.639698;Saint-Tropez;83
+896;Var;France;non;V;43.636581;6.643194;Seillans;83
+937;Vaud;Conf�d�ration Helv�tique;non;V;46.410351;6.176402;Gingins;0
+939;Vaud;Conf�d�ration Helv�tique;non;V;46.581879;6.21161;Le Brassus;0
+40;Vaud;Conf�d�ration Helv�tique;non;V;46.6667;6.3167;Le Pont;0
+51;Vaud;Conf�d�ration Helv�tique;non;V;46.808285;6.549053;Vuitteboeuf;0
+50;Vaud;Conf�d�ration Helv�tique;autre;Other;46.640835;6.635485;Echallens;0
+959;Vaud;Conf�d�ration Helv�tique;non;V;46.46273;6.842431;Vevey;0
+969;Vaud;Conf�d�ration Helv�tique;non;V;46.423512;7.146649;LEtivaz;0
+966;Aoste;Italie;non;V;45.824638;6.97371;Courmayeur;0
+975;Aoste;Italie;non;V;45.73333;7.31667;Aoste;0
+987;Aoste;Italie;oui;C;45.851388;7.33162;Ayas;0
+985;Aoste;Italie;non;V;45.617;7.617;Champorcher;0
+986;Aoste;Italie;non;V;45.75;7.617;Ch�tillon;0
+824;Ard�che;France;non;V;44.733334;4.25;Burzet;7
+825;Ard�che;France;non;V;45.009529;4.396325;Saint-Agr�ve;7
+833;Ard�che;France;non;V;44.549999;4.416667;Vog��;7
+826;Ard�che;France;autre;Other;44.804054;4.613472;Les Olli�res;7
+827;Ard�che;France;autre;Other;45.099998;4.8;Vion;7
+790;Ari�ge;France;oui;C;42.919956;1.031991;Castillon-en-Couserans;9
+782;Ari�ge;France;oui;C;43.083332;1.366667;Le Mas-d'Azil;9
+791;Ari�ge;France;oui;C;42.766666;1.483333;Auzat;9
+772;Ari�ge;France;oui;C;43.233334;1.583333;Saverdun;9
+783;Ari�ge;France;oui;C;43.028927;1.607477;Crampagna;9
+792;Ari�ge;France;oui;C;42.650002;1.833333;M�rens-les-Vals;9
+784;Aude;France;oui;C;42.950001;1.983333;Rivel;11
+773;Aude;France;oui;C;43.200001;2.05;Fanjeaux;11
+793;Aude;France;oui;C;42.799999;2.233333;Axat;11
+785;Aude;France;oui;C;43.104206;2.351078;Ladern-sur-Lauquet;11
+786;Aude;France;oui;C;42.888527;2.718015;Tuchan;11
+776;Aude;France;autre;Other;43.200645;2.757814;L�zignan-Corbi�res;11
+787;Aude;France;autre;Other;43.028221;2.979617;Sigean;11
+724;Aveyron;France;oui;C;44.306595;2.237012;Rieupeyroux;12
+716;Aveyron;France;oui;C;44.599998;2.4;Conques;12
+735;Aveyron;France;oui;C;44.249134;2.513123;Calmont;12
+746;Aveyron;France;oui;C;43.817284;2.753088;Belmont-sur-Rance;12
+727;Aveyron;France;oui;C;44.516666;2.766667;Espalion;12
+718;Aveyron;France;oui;C;44.684731;2.842664;Laguiole;12
+737;Aveyron;France;oui;C;44.048107;2.896;Saint-Rome-de-Tarn;12
+728;Aveyron;France;autre;Other;44.316666;3.066667;S�v�rac-le-Ch�teau;12
+748;Aveyron;France;oui;C;44.016666;3.3;Nant;12
+88;Bas-Rhin;France;non;V;48.472221;7.183056;La Broque;67
+518;Charente;France;non;V;45.713284;-0.203274;Chassors;16
+529;Charente;France;non;V;45.474201;-0.049994;Angeduc;16
+621;Charente;France;non;V;45.27441;-0.00666;Yviers;16
+517;Charente;France;non;V;45.896664;0.167403;Saint-Groux;16
+610;Charente;France;autre;Other;45.650002;0.366667;Chazelles;16
+519;Charente;France;non;V;45.900002;0.466667;Saint-Claud;16
+535;Charente-Maritime;France;non;V;45.916668;-1.366667;La Cotini�re;17
+533;Charente-Maritime;France;non;V;46.150002;-1.3;Sainte-Marie;17
+536;Charente-Maritime;France;non;V;45.770676;-1.14008;La Tremblade;17
+523;Charente-Maritime;France;non;V;46.139168;-1.027535;Clavette;17
+525;Charente-Maritime;France;non;V;45.916668;-0.85;Cabariot;17
+527;Charente-Maritime;France;non;V;45.683334;-0.666667;Chermignac;17
+528;Charente-Maritime;France;autre;Other;45.433334;-0.516667;Guitini�re;17
+515;Charente-Maritime;France;non;V;45.916668;-0.416667;Varaize;17
+419;Deux-S�vres;France;non;V;46.716667;-0.55;Le Breuil-Bernard;79
+417;Deux-S�vres;France;non;V;46.933334;-0.516667;Voultegon;79
+512;Deux-S�vres;France;non;V;46.150002;-0.5;Priss�-la-Charri�re;79
+510;Deux-S�vres;France;non;V;46.391396;-0.415654;�chir�;79
+418;Deux-S�vres;France;non;V;46.691574;-0.08954;Oroux;79
+511;Deux-S�vres;France;non;V;46.395634;-0.055822;Pamproux;79
+513;Deux-S�vres;France;autre;Other;46.099998;-0.05;Chef-Boutonne;79
+634;Dordogne;France;non;V;44.859722;0.109167;V�lines;24
+624;Dordogne;France;non;V;45.016708;0.40196;Bourgnac;24
+611;Dordogne;France;autre;Other;45.366669;0.45;La Tour-Blanche;24
+626;Dordogne;France;non;V;44.730469;0.608025;Issigeac;24
+612;Dordogne;France;non;V;45.493252;0.745127;Saint-Pardoux-la-Rivi�re;24
+615;Dordogne;France;autre;Other;45.125286;0.855988;Saint-Pierre-de-Chignac;24
+616;Dordogne;France;non;V;44.918415;0.924951;Le Bugue;24
+614;Dordogne;France;autre;Other;45.339443;1.048374;Excideuil;24
+628;Dordogne;France;oui;C;44.631409;1.072331;Villefranche-du-P�rigord;24
+844;Dr�me;France;non;V;44.376064;4.69916;Pierrelatte;26
+836;Dr�me;France;non;V;44.643669;4.87369;Marsanne;26
+837;Dr�me;France;non;V;44.900002;5.016667;Chabeuil;26
+920;Dr�me;France;non;V;45.266666;5.1;Le Grand-Serre;26
+855;Dr�me;France;non;V;44.361916;5.140057;Nyons;26
+838;Dr�me;France;non;V;45.066666;5.25;Saint-Nazaire-en-Royans;26
+847;Dr�me;France;autre;Other;44.75;5.366667;Die;26
+857;Dr�me;France;non;V;44.587257;5.498756;Luc-en-Diois;26
+217;Essonne;France;non;V;48.403988;2.14986;Ormoy-la-Rivi�re;91
+676;Gers;France;autre;Other;43.666668;-0.083333;Riscle;32
+667;Gers;France;oui;C;43.862587;0.10053;Eauze;32
+678;Gers;France;oui;C;43.50668;0.375323;Saint-Martin;32
+668;Gers;France;oui;C;43.766666;0.466667;Jegun;32
+658;Gers;France;oui;C;43.933716;0.623284;Lectoure;32
+669;Gers;France;autre;Other;43.633331;0.883333;Gimont;32
+679;Gers;France;oui;C;43.474518;0.909611;Lombez;32
+662;Gironde;France;oui;C;44.631077;-1.147886;La Teste-de-Buch;33
+650;Gironde;France;autre;Other;44.977982;-1.075645;Lacanau;33
+548;Gironde;France;oui;C;45.430782;-1.035931;Saint-Vivien-de-Médoc;33
+549;Gironde;France;oui;C;45.229446;-0.832658;Cissac-Médoc;33
+653;Gironde;France;oui;C;44.492271;-0.63581;Hostens;33
+641;Gironde;France;oui;C;44.805595;-0.630619;Pessac;33
+630;Gironde;France;non;V;45.138611;-0.448056;Saint-Savin;33
+643;Gironde;France;oui;C;44.734314;-0.26419;Targon;33
+645;Gironde;France;autre;Other;44.426666;-0.180556;Saint-Côme;33
+632;Gironde;France;non;V;45.016666;-0.133333;Abzac;33
+635;Gironde;France;non;V;44.637939;0.096903;Andraut;33
+294;Hainault;Belgique;oui;C;50.617924;3.605176;Thieulain;0
+293;Hainault;Belgique;non;V;50.757858;3.761533;Lessines;0
+292;Hainault;Belgique;non;V;50.426292;3.958426;Mesvin;0
+291;Hainault;Belgique;autre;Other;50.496262;4.28842;Godarville;0
+85;Haut-Rhin;France;non;V;48.152824;7.168347;Lapoutroie;68
+699;Haute-Garonne;France;oui;C;42.789097;0.592306;Bagnères-de-Luchon;31
+780;Haute-Garonne;France;oui;C;43.107498;0.723742;Saint-Gaudens;31
+781;Haute-Garonne;France;oui;C;43.19841;1.010889;Martres-Tolosane;31
+771;Haute-Garonne;France;autre;Other;43.293835;1.226304;Carbonne;31
+760;Haute-Garonne;France;oui;C;43.600231;1.234472;Léguevin;31
+762;Haute-Garonne;France;oui;C;43.472385;1.54995;Donneville;31
+752;Haute-Garonne;France;oui;C;43.716667;1.6;Montastruc-la-Conseillère;31
+763;Haute-Garonne;France;oui;C;43.452255;2.013516;Revel;31
+812;Haute-Loire;France;non;V;45.206726;3.51569;Paulhaguet;43
+813;Haute-Loire;France;autre;Other;44.969067;3.645515;Monistrol-d'Allier;43
+814;Haute-Loire;France;autre;Other;44.966667;3.883333;Solignac-sur-Loire;43
+815;Haute-Loire;France;non;V;45.200001;3.983333;Chamalières-sur-Loire;43
+817;Haute-Loire;France;autre;Other;45.233334;4.4;Riotord;43
+133;Haute-Marne;France;non;V;48.416668;4.933333;Courcelles-sur-Blaise;52
+120;Haute-Marne;France;non;V;47.965687;4.976649;Cour-l'…vÍque;52
+121;Haute-Marne;France;non;V;48.216667;5.116667;Lamancine;52
+132;Haute-Marne;France;autre;Other;48.425838;5.221271;Poissons;52
+27;Haute-Marne;France;non;V;47.68021;5.293455;Saint-Broingt-les-Fosses;52
+28;Haute-Marne;France;non;V;47.904106;5.30092;Humes;52
+130;Haute-Marne;France;non;V;48.216667;5.566667;Illoud;52
+49;Haute-Marne;France;non;V;48.170609;5.634898;Graffigny-Chemin;52
+38;Haute-Marne;France;non;V;47.906738;5.696816;Coiffy-le-Haut;52
+695;Hautes-Pyrénées;France;oui;C;42.88858;-0.114364;Cauterets;65
+697;Hautes-Pyrénées;France;oui;C;42.733166;-0.009124;Gavarnie;65
+687;Hautes-Pyrénées;France;autre;Other;43.241695;0.095897;Aureilhan;65
+696;Hautes-Pyrénées;France;oui;C;43.049999;0.166667;Gerde;65
+698;Hautes-Pyrénées;France;autre;Other;42.799999;0.291667;TramezaÔgues;65
+689;Hautes-Pyrénées;France;autre;Other;43.125694;0.384789;Lannemezan;65
+688;Hautes-Pyrénées;France;oui;C;43.294434;0.506869;Sariac-Magnoac;65
+226;Hauts-de-Seine;France;non;V;48.777695;2.26378;Le Plessis-Robinson;92
+871;Bouches-du-Rhône;France;Autre;Other;43.451077;4.429386;Les Saintes-Maries;13
+873;Bouches-du-Rhône;France;Non;V;43.694752;5.030366;Eyguières;13
+872;Bouches-du-Rhône;France;Non;V;43.429222;5.040304;Martigues;13
+883;Bouches-du-Rhône;France;Non;V;43.455647;5.470955;Gardanne;13
+882;Bouches-du-Rhône;France;Non;V;43.173679;5.605412;La Ciotat;13
+840;Gard;France;Non;V;43.983334;3.716667;Sumène;30
+841;Gard;France;Non;V;44.125053;4.077391;Alès;30
+861;Gard;France;Non;V;43.566509;4.190353;Aigues-Mortes;30
+851;Gard;France;Non;V;43.816666;4.266667;Caveirac;30
+842;Gard;France;Autre;Other;44.308044;4.346212;Barjac;30
+852;Gard;France;non;V;44.013912;4.420085;Uzès;30
+862;Gard;France;Non;V;43.692692;4.610613;Fourques;30
+863;Gard;France;Non;V;43.889523;4.679728;Aramon;30
+766;Hérault;France;autre;Other;43.488136;2.760503;Saint-Pons-de-Thomières;34
+757;Hérault;France;Oui;C;43.597672;3.080568;Lamalou-les-Bains;34
+777;Hérault;France;Oui;C;43.288982;3.128426;Nissan-lez-Enserune;34
+758;Hérault;France;Non;V;43.730679;3.320521;Lodève;34
+768;Hérault;France;Oui;C;43.539261;3.457876;Paulhan;34
+778;Hérault;France;Autre;Other;43.313301;3.468465;Agde;34
+779;Hérault;France;Non;V;43.445652;3.756302;Frontignan;34
+759;Hérault;France;Non;V;43.7304;3.80886;Les Matelles;34
+405;Indre;France;Non;V;46.683334;1.033333;Pouligny-Saint-Pierre;36
+505;Indre;France;Non;V;46.433334;1.3;Chaillac;36
+404;Indre;France;Non;V;46.933334;1.333333;Saint-Genou;36
+503;Indre;France;Non;V;46.586445;1.52282;Argenton-sur-Creuse;36
+303;Indre;France;Non;V;47.233334;1.533333;La Vernelle;36
+401;Indre;France;Non;V;46.886055;1.858877;Neuvy-Pailloux;36
+414;Indre-et-Loire;France;Non;V;47.216667;0.316667;Saint-BenoÓt-la-ForÍt;37
+408;Indre-et-Loire;France;Non;V;47.5;0.633333;Saint-Antoine-du-Rocher;37
+407;Indre-et-Loire;France;Non;V;47.033176;0.653465;Marcé-sur-Esves;37
+406;Indre-et-Loire;France;Non;V;47.333332;0.983333;La Croix-de-Touraine;37
+681;Landes;France;Autre;Other;43.755661;-1.326996;Soustons;40
+680;Landes;France;Oui;C;44.075661;-1.166173;Mézos;40
+672;Landes;France;Oui;C;44.354958;-1.070069;Parentis-en-Born;40
+683;Landes;France;Oui;C;43.606;-0.995;Pouillon;40
+682;Landes;France;Oui;C;43.832348;-0.80966;Tartas;40
+674;Landes;France;Oui;C;44.148331;-0.745605;Sabres;40
+684;Landes;France;Oui;C;43.657494;-0.590609;Hagetmau;40
+664;Landes;France;Autre;Other;44.26384;-0.518077;Luxey;40
+675;Landes;France;Oui;C;43.773781;-0.430806;Grenade-sur-l'Adour;40
+665;Landes;France;Oui;C;44.016666;-0.316667;Sarbazan;40
+905;Loire;France;Non;V;46.10392;3.896029;Ambierle;42
+808;Loire;France;Non;V;45.729031;3.969478;Sail-sous-Couzan;42
+816;Loire;France;Autre;Other;45.423809;4.066162;Saint-Bonnet-le-Ch‚teau;42
+819;Loire;France;Non;V;45.838989;4.236728;Néronde;42
+794;Pyrénées-Orientales;France;Oui;C;42.555466;2.27121;Olette;66
+795;Pyrénées-Orientales;France;Oui;C;42.671741;2.619499;Ille-sur-TÍt;66
+796;Pyrénées-Orientales;France;Autre;Other;42.456741;2.631534;Arles-sur-Tech;66
+797;Pyrénées-Orientales;France;Oui;C;42.768581;2.871763;Rivesaltes;66
+798;Pyrénées-Orientales;France;Oui;C;42.526752;3.084631;Collioure;66
+908;Rhône;France;Non;V;46.099869;4.321261;Cours-la-Ville;69
+818;Rhône;France;Non;V;45.632107;4.45486;Saint-Symphorien-sur-Coise;69
+911;Rhône;France;Non;V;45.852737;4.583329;Bully;69
+914;Rhône;France;Non;V;46.116669;4.666667;Saint-Lager;69
+912;Rhône;France;Non;V;45.696011;4.940959;Saint-Priest;69
+853;Vaucluse;France;Non;V;44.089443;4.882769;Courthézon;84
+864;Vaucluse;France;Non;V;43.92247;5.126967;Fontaine-de-Vaucluse;84
+865;Vaucluse;France;Non;V;44.09222;5.409167;Sault;84
+874;Vaucluse;France;Non;V;43.716667;5.433333;Villelaure;84
+71;Berne;Confédération Helvétique;Non;V;47.200211;7.250633;Péry;0
+619;Lot;France;Non;V;44.734951;1.37886;Gourdon;46
+720;Lot;France;Oui;C;44.446575;1.441015;Cahors;46
+618;Lot;France;Autre;Other;44.900002;1.483333;Souillac;46
+712;Lot;France;Non;V;44.779182;1.723686;Gramat;46
+722;Lot;France;Autre;Other;44.37571;1.815553;Promilhanes;46
+713;Lot;France;Autre;Other;44.610016;2.034731;Figeac;46
+656;Lot-et-Garonne;France;Oui;C;44.194916;0.033055;Houeillès;47
+657;Lot-et-Garonne;France;Oui;C;44.049999;0.266667;Mézin;47
+636;Lot-et-Garonne;France;Autre;Other;44.551247;0.305529;Seyches;47
+647;Lot-et-Garonne;France;Autre;Other;44.301689;0.33875;Aiguillon;47
+637;Lot-et-Garonne;France;Autre;Other;44.398308;0.591781;Sainte-Livrade-sur-Lot;47
+648;Lot-et-Garonne;France;Non;V;44.134655;0.660728;Layrac;47
+638;Lot-et-Garonne;France;Autre;Other;44.400085;0.995953;Tournon-d'Agenais;47
+810;Lozère;France;Non;V;44.801727;3.275227;Saint-Chély-d'Apcher;48
+729;Lozère;France;Autre;Other;44.550167;3.289469;Marvéjols;48
+830;Lozère;France;Autre;Other;44.325314;3.591066;Florac;48
+821;Lozère;France;Oui;C;44.72699;3.85527;Langogne;48
+822;Lozère;France;Non;V;44.440277;3.932777;Villefort;48
+992;Pignerol;Italie;Autre;Other;44.8;7.11667;Bobi;0
+982;Pignerol;Italie;Autre;Other;44.933;7.117;MaÔsette/FaÎt;0
+705;Puy-de-Dôme;France;Non;V;45.575169;2.810043;Le Mont-Dore;63
+801;Puy-de-Dôme;France;Autre;Other;46.160015;2.834623;Saint-…loy-les-Mines;63
+703;Puy-de-Dôme;France;Non;V;45.833332;2.866667;Pontgibaud;63
+805;Puy-de-Dôme;France;Autre;Other;45.679981;3.157518;Monton;63
+804;Puy-de-Dôme;France;Non;V;45.899216;3.232057;Ennezat;63
+807;Puy-de-Dôme;France;Autre;Other;45.450001;3.25;Saint-Germain-Lembron;63
+806;Puy-de-Dôme;France;Autre;Other;45.857222;3.548333;Thiers;63
+809;Puy-de-Dôme;France;Non;V;45.550472;3.741798;Ambert;63
+690;Pyrénées-Atlantiques;France;Non;V;43.483093;-1.558613;Biarritz;64
+691;Pyrénées-Atlantiques;France;Non;V;43.398983;-0.941821;Sauveterre-de-Béarn;64
+692;Pyrénées-Atlantiques;France;Oui;C;43.200001;-0.6;Oloron-Sainte-Marie;64
+685;Pyrénées-Atlantiques;France;Non;V;43.400002;-0.55;Artix;64
+693;Pyrénées-Atlantiques;France;Autre;Other;42.983;-0.4;Aas;64
+694;Pyrénées-Atlantiques;France;Non;V;43.179821;-0.262647;Nay;64
+686;Pyrénées-Atlantiques;France;Non;V;43.449608;-0.112186;Lembeye;64
+411;Sarthe;France;Non;V;47.762665;-0.099905;Villaines-sous-Malicorne;72
+328;Sarthe;France;Non;V;48.105354;0.026718;Domfront-en-Champagne;72
+318;Sarthe;France;Non;V;47.806011;0.520977;Saint-Pierre-du-LorouÎr;72
+315;Sarthe;France;Non;V;48.134933;0.563564;BoÎssé-le-Sec;72
+800;Allier;France;non;V;46.355083;2.61801;Désertines;3
+901;Allier;France;non;V;46.583332;2.866667;Theneuille;3
+802;Allier;France;non;V;46.23381;3.146973;Chantelle;3
+902;Allier;France;non;V;46.533333;3.183333;Souvigny;3
+803;Allier;France;non;V;46.118;3.404;Vesse;3
+904;Allier;France;non;V;46.333332;3.6;Trézelle;3
+903;Allier;France;non;V;46.601688;3.672479;Beaulon;3
+714;Cantal;France;non;V;45.134041;2.226234;Pléaux;15
+715;Cantal;France;non;V;44.849998;2.3;Saint-Mamet-La-Salvetat;15
+717;Cantal;France;autre;Other;44.979401;2.625126;Vic-sur-Cère;15
+709;Cantal;France;non;V;45.229012;2.934578;Allanche;15
+719;Cantal;France;autre;Other;44.996853;3.013687;Les Ternes;15
+811;Cantal;France;non;V;45.250282;3.199721;Massiac;15
+504;Creuse;France;non;V;46.30542;1.662604;Dun-le-Palestel;23
+603;Creuse;France;non;V;46.03;1.713;Saint-Dizier-Leyrenne;23
+602;Creuse;France;non;V;46.133331;2.1;Cressat;23
+704;Creuse;France;non;V;45.866669;2.166667;Saint-Quentin-la-Chabanne;23
+601;Creuse;France;non;V;46.316666;2.266667;Lavaufranche;23
+702;Creuse;France;non;V;46.016666;2.5;Auzances;23
+61;Fribourg;Confédération Helvétique;non;V;46.848743;6.846542;Estavayer;0
+60;Fribourg;Confédération Helvétique;non;V;46.68803;6.89575;Billens;0
+70;Fribourg;Confédération Helvétique;non;V;46.585175;7.077341;Gruyères;0
+62;Fribourg;Confédération Helvétique;autre;Other;46.820385;7.105408;Belfaux;0
+606;Haute-Vienne;France;non;V;45.887157;0.901089;Saint-Junien;87
+607;Haute-Vienne;France;non;V;45.667706;0.942591;Ch‚lus;87
+605;Haute-Vienne;France;non;V;45.826458;1.260355;Limoges;87
+506;Haute-Vienne;France;non;V;46.132477;1.284992;Ch‚teauponsac;87
+608;Haute-Vienne;France;autre;Other;45.510029;1.326566;Coussac-Bonneval;87
+604;Haute-Vienne;France;non;V;45.732304;1.743022;Eymoutiers;87
+933;Savoie;France;non;V;45.755024;5.927653;La Biolle;73
+943;Savoie;France;non;V;45.516666;6.016667;Chignin;73
+953;Savoie;France;non;V;45.453941;6.294658;…pierre;73
+954;Savoie;France;non;V;45.650002;6.316667;Verrens-Arvey;73
+963;Savoie;France;non;V;45.233334;6.45;Saint-Martin-de-la-Porte;73
+955;Savoie;France;non;V;45.750633;6.585635;Hauteluce;73
+964;Savoie;France;non;V;45.450001;6.65;Bozel;73
+965;Savoie;France;non;V;45.623161;6.80088;Séez;73
+973;Savoie;France;oui;C;45.286;6.88;Lanslebourg;73
+972;Suze;Italie;non;V;45.041508;6.785431;Oulx;0
+65;Territoire-de-Belfort;France;non;V;47.733612;6.849722;Rougegoutte;90
+75;Territoire-de-Belfort;France;non;V;47.525276;7.0025;Joncherey;90
+416;Vienne;France;non;V;46.915485;0.162171;Guesnes;86
+514;Vienne;France;autre;Other;46.201107;0.258012;Blanzay;86
+508;Vienne;France;non;V;46.516918;0.331399;Ligugé;86
+409;Vienne;France;non;V;46.701667;0.4325;Dissay;86
+509;Vienne;France;non;V;46.190388;0.687725;Millac;86
+507;Vienne;France;non;V;46.418537;0.768409;Sillars;86
+367;Calvados;France;NON;V;48.966667;-0.883333;La Ferri��re-Harang;14
+376;Calvados;France;NON;V;49.347221;-0.756111;Port-en-Bessin;14
+356;Calvados;France;NON;V;48.91647;-0.482545;Cl��cy;14
+355;Calvados;France;NON;V;49.114948;-0.407409;Feuguerolles-sur-Orne;14
+345;Calvados;France;NON;V;48.972401;-0.080331;Jort;14
+354;Calvados;France;NON;V;49.183334;-0.05;Beuvron-en-Auge;14
+363;Calvados;France;NON;V;49.40041;0.128208;Villerville;14
+343;Calvados;France;NON;V;49.066666;0.333333;La Chapelle-Yvon;14
+394;Manche;France;NON;V;49.711658;-1.932204;Auderville;50
+395;Manche;France;NON;V;49.402164;-1.780064;Les Moitiers-d'Allonne;50
+387;Manche;France;NON;V;49.200645;-1.562132;Cr��ances;50
+378;Manche;France;NON;V;48.966667;-1.466667;Quettreville-sur-Sienne;50
+386;Manche;France;NON;V;49.433334;-1.35;Fresville;50
+368;Manche;France;NON;V;48.702;-1.345868;Ponts;50
+393;Manche;France;NON;V;49.650002;-1.316667;Sainte-Genevi��ve;50
+377;Manche;France;NON;V;49.168755;-1.135535;Pont-H��bert;50
+358;Manche;France;NON;V;48.68552;-0.881653;Saint-Cl��ment;50
+297;Nord;France;AUTRE;Other;51.032822;2.309953;Fort-Mardyck;59
+295;Nord;France;AUTRE;Other;50.733334;3.083333;Linselles;59
+282;Nord;France;NON;V;50.528065;3.17056;Templeuve;59
+272;Nord;France;AUTRE;Other;50.266666;3.35;Lieu-Saint-Amand;59
+271;Nord;France;AUTRE;Other;50.066666;3.45;Maurois;59
+281;Nord;France;AUTRE;Other;50.466667;3.5;Bruille-Saint-Amand;59
+280;Nord;France;NON;V;50.283333;3.866667;La Longueville;59
+270;Nord;France;AUTRE;Other;50.057198;4.070704;Glageon;59
+347;Orne;France;NON;V;48.616669;-0.55;Dompierre;61
+336;Orne;France;NON;V;48.666668;-0.1;Avoine;61
+327;Orne;France;NON;V;48.400002;0.033333;H��loup;61
+334;Orne;France;NON;V;48.716324;0.43088;Sainte-Gauburge;61
+325;Orne;France;NON;V;48.478081;0.559326;R��veillon;61
+279;Somme;France;NON;V;50.157742;1.553418;Lanch��res;80
+267;Somme;France;NON;V;49.935616;1.628936;Bouttencourt;80
+278;Somme;France;AUTRE;Other;50.150002;1.966667;Oneux;80
+266;Somme;France;NON;V;49.766666;2;Blangy-sous-Poix;80
+265;Somme;France;NON;V;49.934505;2.179341;Breilly;80
+277;Somme;France;NON;V;50.106304;2.258762;Candas;80
+255;Somme;France;NON;V;49.75;2.35;Jumel;80
+264;Somme;France;NON;V;50.049999;2.533333;Varennes;80
+263;Somme;France;NON;V;49.783333;2.683333;Vr��ly;80
+743;Tarn;France;OUI;C;43.900002;1.916667;Gaillac;81
+753;Tarn;France;OUI;C;43.716667;2.083333;Brousse;81
+744;Tarn;France;AUTRE;Other;44.012611;2.233618;Valderi��s;81
+764;Tarn;France;AUTRE;Other;43.499855;2.365713;Aussillon;81
+755;Tarn;France;OUI;C;43.693127;2.426032;Vabre;81
+659;Tarn-et-Garonne;France;OUI;C;43.883953;0.994406;Beaumont-de-Lomagne;82
+649;Tarn-et-Garonne;France;AUTRE;Other;44.104809;1.084894;Moissac;82
+750;Tarn-et-Garonne;France;AUTRE;Other;43.826904;1.29541;Grisolles;82
+731;Tarn-et-Garonne;France;OUI;C;44.235359;1.482468;Montpezat-de-Quercy;82
+741;Tarn-et-Garonne;France;OUI;C;44.033333;1.566667;Vaissac;82
+733;Tarn-et-Garonne;France;OUI;C;44.144039;1.970961;Lagu��pie;82
+479;Vend��e;France;NON;V;46.72451;-2.348529;L'Ile d'Yeu;85
+478;Vend��e;France;NON;V;47.024269;-2.303349;Noirmoutier-en-l'?le;85
+459;Vend��e;France;NON;V;46.671261;-1.883768;Givrand;85
+458;Vend��e;France;NON;V;46.883331;-1.833333;La Garnache;85
+540;Vend��e;France;NON;V;46.466759;-1.617908;Talmont-Saint-Hilaire;85
+448;Vend��e;France;NON;V;46.805443;-1.424826;Saligny;85
+531;Vend��e;France;NON;V;46.383331;-1.2;Triaize;85
+429;Vend��e;France;NON;V;46.720631;-1.020996;Saint-Germain-de-Prin?ay;85
+427;Vend��e;France;NON;V;46.966667;-1;La Verrie;85
+521;Vend��e;France;NON;V;46.467957;-0.773377;Charzais;85
+140;Vosges;France;AUTRE;Other;48.299999;5.833333;Ch;tenois;88
+48;Vosges;France;NON;V;48.06472;6.036389;Attigny;88
+59;Vosges;France;NON;V;48.25758;6.192293;Rac��court;88
+58;Vosges;France;NON;V;48.030834;6.295278;Les Voivres;88
+69;Vosges;France;NON;V;48.368332;6.315833;Essegney;88
+57;Vosges;France;NON;V;47.926117;6.484124;Le Val-d'Ajol;88
+67;Vosges;France;NON;V;48.117851;6.527835;Arches;88
+68;Vosges;France;NON;V;48.356945;6.586667;Romont;88
+77;Vosges;France;NON;V;48.194683;6.720002;Champ-le-Duc;88
+66;Vosges;France;NON;V;47.890926;6.739206;Ramonchamp;88
+76;Vosges;France;NON;V;48.070206;6.876954;G��rardmer;88
+86;Vosges;France;NON;V;48.267776;6.980556;Sainte-Marguerite;88
+87;Vosges;France;NON;V;48.405277;6.996667;La Petite-Raon;88
+78;Vosges;France;NON;V;48.185154;7.002384;Fraize;88
