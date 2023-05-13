@@ -23,8 +23,8 @@ create_map <- function(source_file_path, dest_file_name, title = "", author = ""
         geom_point(data = dataALF, mapping = aes(x = Long, y = Lat, colour = Value, shape = Value, text = sprintf(
             "Type : %s\nN° pt : %s\nCommune : %s\nDpt/Région : %s", Value, name, description, Nom_dept
         )), size = 3) +
-        scale_shape_manual(values = c(17, 15, 43), "", limits = c("var1", "var2", "Other")) +
-        scale_colour_manual(values = c("darkgreen", "red", "#b46cee"), limits = c("var1", "var2", "Other")) +
+        scale_shape_manual(values = c(17, 15, 43), "", limits = c("open", "closed", "Other")) +
+        scale_colour_manual(values = c("darkgreen", "red", "#b46cee"), limits = c("open", "closed", "Other")) +
         theme(
             panel.background = element_rect(fill = "#8eb2c8", colour = "transparent"),
             panel.grid.major = element_blank(),
@@ -122,7 +122,7 @@ create_map <- function(source_file_path, dest_file_name, title = "", author = ""
     g <- g + annotate("text", x = -4, y = 51, label = title, size = 6, color = "blue", hjust = 0) +
         annotate("text", x = -4, y = 50.75, label = subtitle, size = 5, color = "blue", hjust = 0) +
         annotate("text", x = -4, y = 50.515, label = paste("ALF c.", alf_ref, title, sep = " "), size = 4, color = "blue", hjust = 0) +
-        annotate("text", x = -4, y = 50.35, label = paste("© ", author), size = 3, color = "blue", hjust = 0) +
+        annotate("text", x = -4, y = 50.35, label = paste("© ", author), size = 3, color = "#1b2be3", hjust = 0) +
         annotate("text", x = 4, y = 42.5, label = "based on: TutoMap (2),\nUrl : https://phonodiachro.hypotheses.org/?p=145", size = 3, color = "black", hjust = 0)
     g
     ggsave(g, filename = dest_file_name, width = 25, height = 25, units = "cm", scale = 1, dpi = "retina")
